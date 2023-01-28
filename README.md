@@ -1,1 +1,2 @@
 # Trophies.fyi
+wenas wenas
