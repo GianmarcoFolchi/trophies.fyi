@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "express": "^4.18.2",
-    "passport-steam": "^1.0.17"
-  }
-}
