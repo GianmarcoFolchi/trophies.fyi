@@ -1,0 +1,9 @@
+.page-header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  padding: 0.75rem 0;
+  border-bottom: 2px solid var(--bs-primary);
+  background-color: var(--bs-dark);
+  z-index: 99999;
+}

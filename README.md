@@ -1,9 +1,5 @@
-<<<<<<< Updated upstream
 
 # Trophies.fyi
-<<<<<<<< Updated upstream:frontend/README.old.md
-wenas wenas
-========
 
 This app is used for cross platform games I hope it works
 
@@ -79,8 +75,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
->>>>>>>> Stashed changes:README.md
-=======
-# Trophies.fyi
-wenas wenas
->>>>>>> Stashed changes

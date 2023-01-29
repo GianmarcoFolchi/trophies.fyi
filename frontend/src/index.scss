@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "RussoOne";
+  src: url("assets/fonts/Russo_One/RussoOne-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NotoSans";
+  src: url("assets/fonts/Noto_Sans/NotoSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NotoSans";
+  font-weight: 600;
+  src: url("assets/fonts/Noto_Sans/NotoSans-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NotoSans";
+  font-weight: 900;
+  src: url("assets/fonts/Noto_Sans/NotoSans-Bold.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  background-color: var(--bs-dark);
+  color: var(--bs-white);
+  font-family: "NotoSans", Helvetica, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

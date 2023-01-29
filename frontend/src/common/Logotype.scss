@@ -1,0 +1,13 @@
+.logotype-container {
+  display: flex;
+  width: 100%;
+  font-family: "RussoOne", sans-serif;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 1.33rem;
+  color: var(--bs-primary);
+}
+
+.logotype-name {
+  color: var(--bs-white);
+}

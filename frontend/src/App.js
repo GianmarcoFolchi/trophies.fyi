@@ -1,3 +1,5 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import logo from './logo.svg';
 import './App.css';
 
@@ -23,3 +25,22 @@ function App() {
 }
 
 export default App;
+=======
+=======
+>>>>>>> Stashed changes
+import LoginPage from "./login/LoginPage";
+import HomePage from "./home/HomePage";
+
+export default function App() {
+  const isLoggedIn = () => true;
+
+  return (
+    <>
+      {isLoggedIn() ? <HomePage></HomePage> : <LoginPage></LoginPage>}
+    </>
+  );
+}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes

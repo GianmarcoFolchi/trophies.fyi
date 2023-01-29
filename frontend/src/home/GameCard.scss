@@ -1,0 +1,29 @@
+.game-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: var(--bs-gray-800);
+    border-radius: 0.5rem;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.25s;
+}
+
+.game-card:hover {
+    transform: scale(1.025);
+}
+
+.game-card:active {
+    filter: brightness(0.9);
+}
+
+.game-card-image {
+    width: 100%;
+    pointer-events: none;
+}
+
+.game-card-title {
+    padding: 0.75rem;
+    font-weight: 900;
+    font-size: 1.125rem;
+}
