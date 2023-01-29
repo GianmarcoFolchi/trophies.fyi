@@ -1,15 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-=======
-=======
->>>>>>> Stashed changes
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./custom.scss";
@@ -18,10 +6,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 root.render(
   <React.StrictMode>
     <App />
